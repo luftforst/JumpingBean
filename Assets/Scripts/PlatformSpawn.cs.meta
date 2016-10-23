@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d0516a6965c53984a834b7e3554afb9f
+timeCreated: 1433427696
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Platform_Normal: {fileID: 133686, guid: d1ea6657b0a4940419c75cf4dc1cfe80, type: 2}
+  - Platform_Break: {fileID: 165288, guid: a193508e4e1081344993c719dd00c721, type: 2}
+  - Platform_Slide: {fileID: 147750, guid: f1652d35dc0b4134bb6cb3bd4b0eb28a, type: 2}
+  - Platform_Razer: {fileID: 133960, guid: b0a1a45d936d5014eabaf2a7a62751eb, type: 2}
+  - Platform_Beam: {fileID: 155280, guid: 711b55a8de4bfaa439d0515aceced617, type: 2}
+  - Item_booster: {fileID: 132114, guid: 9efa48122a9d386489aa89f0c087cbdb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
